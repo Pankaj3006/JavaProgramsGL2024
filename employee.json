@@ -1,0 +1,17 @@
+{
+  "firstName": "Pankaj",
+  "lastName": "Gupta",
+  "mails": ["pankajkit@gmail.com", "pankaj.gupta3@globalLogic.com"],
+  "address": [
+    {
+      "city": "Noida",
+      "pinCode": 201306,
+      "floor": "7th Floor"
+    },
+    {
+      "city": "Jattari",
+      "pinCode": 202137,
+      "floor": "1st Floor"
+    }
+  ]
+}
